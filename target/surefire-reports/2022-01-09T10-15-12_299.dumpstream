@@ -1,0 +1,4 @@
+# Created at 2022-01-09T10:15:17.086
+Boot Manifest-JAR contains absolute paths in classpath 'E:\shubhangi\PGDAC Document\maven_project\java_jenkins_docker\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
